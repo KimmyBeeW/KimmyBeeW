@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimmyBeeW
-- 👀 I’m interested in fairytales, statistics, cute switch games like Link's Awakening
-- 🌱 I’m currently learning python, r, Data Science
+- 👀 I’m interested in fairytales, statistics, cute switch games like Link's Awakening and Echoes of Wisdom
+- 🌱 I’m currently learning python, r, and Data Science in general
 - 💞️ I’m looking to collaborate on school projects
 - 📫 How to reach me: bkimbere@byu.edu
 - 😄 Pronouns: she/her
